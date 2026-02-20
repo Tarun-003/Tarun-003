@@ -37,5 +37,5 @@
 📫 Connect:
 
 - [LinkedIn](https://linkedin.com/in/tarun-s-u-470042331)
-- [Email](mailto:your-email@gmail.com)
+- [Email](mailto:tsu4346@gmail.com)
 - [TryHackMe](https://tryhackme.com/p/TarunSU)
