@@ -33,9 +33,7 @@
 
 ---
 
-📫 Connect:  
-📫 Connect:
-
+📫 Connect Me:  
 - [LinkedIn](https://linkedin.com/in/tarun-s-u-470042331)
 - [Email](mailto:tsu4346@gmail.com)
 - [TryHackMe](https://tryhackme.com/p/TarunSU)
